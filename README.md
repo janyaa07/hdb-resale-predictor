@@ -10,11 +10,13 @@ A Streamlit app for predicting HDB resale prices using a trained neural network 
    cd hdb-resale-predictor
 
 2. **Create a virtual env**
-# Windows (PowerShell)
+Windows (PowerShell)
+
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 
-# macOS / Linux
+macOS / Linux
+
 python3 -m venv .venv
 source .venv/bin/activate
 
